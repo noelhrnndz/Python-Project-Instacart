@@ -1,4 +1,4 @@
-# Python-Project-Instacart-Basket-Analysis
+# Python Project Instacart Basket Analysis
 
 About:
 - Instacart, an online grocery store, has great sales in the United States. They plan to uncover more info about their sales patterns.
