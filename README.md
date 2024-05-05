@@ -1,4 +1,4 @@
-# Python-Project-Instacart
+# Python-Project-Instacart-Basket-Analysis
 
 About:
 - Instacart, an online grocery store, has great sales in the United States. They plan to uncover more info about their sales patterns.
@@ -11,5 +11,5 @@ About:
 - The Instacart Data Set and Data Dictionary used were from Kaggle “The Instacart Online Grocery Shopping Dataset 2017”, accessed from www.instacart.com/datasets/grocery-shopping-201 on March 2024.
 
 Tools used:
-- Python
+- Python (Jupyter)
 - Excel
