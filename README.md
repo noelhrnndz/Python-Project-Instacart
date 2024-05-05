@@ -1,7 +1,6 @@
 # Python-Project-Instacart
 
 About:
-<br>
 <br>● Instacart, an online grocery store, has great sales in the United States. They plan to uncover more info about
 their sales patterns.
 
@@ -17,6 +16,5 @@ user ID number for privacy.
 Dataset 2017”, Accessed from www.instacart.com/datasets/grocery-shopping-201 on March 2024.
 
 Tools used:
-<br>
 <br>● Python
 <br>● Excel
